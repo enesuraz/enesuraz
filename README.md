@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello, I'm Enes Uraz! 👋
 
-<!--
-**enesuraz/enesuraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer passionate about creating delightful user experiences. Currently, I'm focusing on honing my skills in HTML, CSS, JavaScript, and React. I'm also diving into Node.js and Next.js for backend development and server-side rendering.
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js
+- **Frameworks:** Next.js
+- **Version Control:** Git
+
+## Contact
+
+For any questions or inquiries, please contact [@enesuraz](https://github.com/enesuraz) at [nfk7221@gmail.com](mailto:nfk7221@gmail.com).
